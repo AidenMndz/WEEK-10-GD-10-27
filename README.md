@@ -21,12 +21,12 @@ Two data values: Hotbar 1 = Diamond Block
 One action/method: RtClick()
 My engine choice and reason: Unity because its the easiest to access on our computers and is a well know engine.
 Partner feedback: Wrote good example for the actions and inputs.
-Board evidence filename:"C:\Users\B217\Pictures\Screenshots\BoardEvdA1.png"
+Board evidence filename: BoardEvdA1.png
 
 
 
 ## Evidence
-Board photo or accessible diagram: [filename]
+Board photo or accessible diagram: BoardEvdA1.png
 Receipt: cs110-10a-receipt.txt
 GitHub: https://github.com/AidenMndz/WEEK-10-GD-10-27
 Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913141
